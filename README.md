@@ -1,6 +1,9 @@
-<!--hide-->
+# Completed Star Wars Data Modeling Diagram
+![Starwars Diagram](https://github.com/labs404/jay-labs-exercise-starwars-data-modeling/blob/master/diagram.png?raw=true)
+<!-- 
+
 # StarWars blog database
-<!--endhide-->
+
 
 **Important**: To do this activity, you need to `fork` [this repo](https://github.com/breatheco-de/exercise-starwars-data-modeling) into your **Github** account and then open the forked repo on Codespaces (recommended) or Gitpod.
 
@@ -43,4 +46,4 @@ The project is using the SQLAlchemy Python library to generate the database.
 - Generate the `diagram.png` file at the end by running `$ python src/models.py` on the console.
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
-
+ -->
